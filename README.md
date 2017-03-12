@@ -1,4 +1,4 @@
-# NgHmrExample
+# Angular-Cli-hmr-example
 
 ## Running Development server and HMR is enabled
 Run `npm run hmr`
